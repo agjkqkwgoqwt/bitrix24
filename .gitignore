@@ -4,3 +4,5 @@
 ./server-no-ui-crest-sample/logs
 ./server-no-ui-crest-sample/settings.json
 ./server-no-ui-crest-sample/settings.php
+./local-chatbot/logs
+./local-chatbot/settings.php
