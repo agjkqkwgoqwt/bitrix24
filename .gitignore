@@ -1,8 +1,3 @@
-./local-server-ui-index-sample/logs
-./local-server-ui-index-sample/settings.json
-./local-server-ui-index-sample/settings.php
-./server-no-ui-crest-sample/logs
-./server-no-ui-crest-sample/settings.json
-./server-no-ui-crest-sample/settings.php
-./local-chatbot/logs
-./local-chatbot/settings.php
+**/logs
+**/settings.json
+**/settings.php
